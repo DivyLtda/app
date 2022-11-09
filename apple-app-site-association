@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "LG2T4X96ZT.com.nohpay.app",
+            "paths": [
+                "*"
+            ]
+        }]
+    }
+}
